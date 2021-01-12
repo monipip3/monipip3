@@ -14,7 +14,7 @@
 What I would like to do in 2021:
 + Put the finishing touches on our Join Model so it runs weekly
 + Finish our Digital Activist Model for Hustle and have a similar deployment production to the Join Model
-+ Incorporate more unit testing for code I touch
++ Incorporate more [unit testing for code](https://s3.console.aws.amazon.com/s3/object/afscme-training?region=us-east-1&prefix=testinginpython.pdf) I touch
 + Improve our Polling Methods (better sampling, better weighting, and explore different avenues of polling versus just Phone Calls)
 + Ace the Machine Learning Certification in March 2021.
 
