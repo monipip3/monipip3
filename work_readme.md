@@ -12,7 +12,7 @@
  + I dabble in data engineering and have *automated* or *optimized* our voter file matching from [TargetSmart](https://my.targetsmart.com/) using AWS tools. 
  
 What I would like to do in 2021:
-+ Put the finishing touches on our Join Model so it runs weekly
++ Put the finishing touches on our Join Model so it runs weekly 
 + Finish our Digital Activist Model for Hustle and have a similar deployment production to the Join Model
 + Incorporate more [unit testing for code](https://s3.console.aws.amazon.com/s3/object/afscme-training?region=us-east-1&prefix=testinginpython.pdf) I touch
 + Improve our Polling Methods (better sampling, better weighting, and explore different avenues of polling versus just Phone Calls)
@@ -23,9 +23,9 @@ What I would like to do in 2021:
 + I prefer slack and in person versus emails and now in COVID world don't mind a screenshare / zoom call.
 + Happy to learn from anyone and teach anyone anythign I know if they are interested.
 + Triggers : 
-  + Assumptions :peach: ; prefer clarity
-  + Don't like to manage when I am not a manager (up or sideways) ; happy to collaborate but prefer everyone is accountable
-  + Slack on phone (I am very responsive but during lunch hours its lunch hour)
-  + Lack of a roadmap ; I like to be on the same page of people 
+  + Assumptions :peach: ; prefer clarity & humility - dont be afraid to ask questions!
+  + Lack of accountability ; happy to collaborate but prefer everyone is accountable
+  + Slack on phone ; I am very responsive but during lunch hours its lunch hour
+  + Lack of a roadmap & next steps ; I like to be on the same page of people 
 
 *Footnote: Outside of work I like to be busy living; I hike :runner:,read :books:, yoga, skincare */play flawless*, travel :airplane:, crochet, go to sleep before 10 :older_woman:, write ( I have two blogs [here](https://medium.com/@monipip3) and [here](https://puertomonica6.wixsite.com/mysite)) and hang out with my friends :dancer:*
