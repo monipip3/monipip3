@@ -2,14 +2,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Research @ American University with [Dr.Boukouvalas](https://zoisboukouvalas.github.io/)
-- 🌱 I’m currently learning NLP and Machine Learning
+- 🔭 I’m currently working as a Data Scientist at Accenture Federal. In my spare time I teach as an Adjunct Professor.
+- 🌱 I’m currently learning about geospatial data
 - 👯 I’m looking to collaborate on any hackathons
 - 🤔 I’m looking for help with Tensoflow & Keras
-- 💬 Ask me about transitioning into Data Science
+- 💬 Ask me about transitioning into Data Science and NLP
 - 📫 How to reach [me](https://www.buymeacoffee.com/dsmoni)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I will be the first one in my family to complete a Masters.
+- ⚡ Fun fact: I was the first one in my family to complete a Masters.
 
 
 ---
