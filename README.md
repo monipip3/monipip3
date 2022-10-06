@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Data Scientist at Accenture Federal. In my spare time I teach as an Adjunct Professor.
-- 🌱 I’m currently learning about transcribing audio and perfecting topic modeling. 
+- 🌱 I’m currently learning about transcribing audio, perfecting topic modeling, and explainable / responsible AI.
 - 👯 I’m looking to collaborate on any hackathons
 - 🤔 I’m looking for help with Tensoflow & Keras
 - 💬 Ask me about transitioning into Data Science and NLP
